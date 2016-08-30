@@ -1,5 +1,5 @@
 #!/bin/bash
-bash -c 
+#bash -c 
 #....
 # Make sure only root can run our script
 if [[ $EUID -ne 0 ]]; then
